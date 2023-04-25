@@ -6,7 +6,8 @@ User CRUD using SQLite and SWIFT
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://user-images.githubusercontent.com/80779429/234351257-ffb6724d-0fd2-4fd1-9658-7f2026685041.png))
+![Diseño sin título](https://user-images.githubusercontent.com/80779429/234351410-371b9ece-425f-46ed-96ec-38129e7c5c56.png)
+
 
 
 ## Acknowledgements
